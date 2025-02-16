@@ -1,0 +1,45 @@
+* {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  background-image: url("/Users/katrinamartin/Desktop/Tech Stack Marketing/Full Stack Course/Projects/HTML-CSS/DevProject/resources/images/pattern.jpeg");
+  text-align: center;
+}
+
+p,
+li {
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+}
+
+h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.bold {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
+
+.brushes {
+  background-color: mediumspringgreen;
+}
+.frames {
+  background-color: lightcoral;
+}
+
+.paint {
+  background-color: skyblue;
+}
